@@ -1,0 +1,249 @@
+{
+  "discography": [
+	{
+      "title": "Phasen - Lola Dub (Venntaur Remix)",
+      "type": "remix",
+      "on": "Lola Dub",
+      "url": "//deepwitrecordings.bandcamp.com/track/lola-dub-venntaur-remix",
+      "label": "DeepWit Recordings",
+      "cat": "DWR073",
+      "date": "2017-09-04"
+    },
+	{
+      "title": "Blaq Sons - Opposite Monk (Venntaur Remix)",
+      "type": "remix",
+      "on": "Opposite Monk",
+      "url": "//deepwitrecordings.bandcamp.com/track/opposite-monk-venntaur-remix",
+      "label": "DeepWit Recordings",
+      "cat": "DWR061",
+      "date": "2016-12-05"
+    },
+    {
+      "title": "Laydee V - Systematic (Venntaur Remix)",
+      "type": "remix",
+      "on": "Systematic",
+      "url": "//soundcloud.com/user-183258973/laydee-v-systematic-venntaur-remix",
+      "label": "PL7",
+      "cat": "PL7003",
+      "date": "2016-06-20"
+    },
+    {
+      "title": "Hypercanon",
+      "label": "DeepWit Recordings",
+      "cat": "DWR055",
+      "date": "2016-03-28",
+      "type": "EP",
+      "url": "//deepwitrecordings.bandcamp.com/album/hypercanon",
+      "tracks": [
+        {"title": "Aamuyö (Original Mix)"},
+        {"title": "Aamuyö (D.M.P Remix)"},
+        {"title": "Hypercanon (Original Mix)"},
+        {"title": "Hypercanon (Jero Nougues Remix)"}
+      ]
+    },
+    {
+      "title": "Frederick Alonso - Deeper Woods (Venntaur Remix)",
+      "type": "remix",
+      "on": "Deeper Woods",
+      "url": "//soundcloud.com/venntaur/deeper-woods-remix",
+      "label": "DeepWit Recordings",
+      "cat": "DWR054",
+      "date": "2016-02-29"
+    },
+    {
+      "title": "Now",
+      "label": "Platform 7even",
+      "cat": "PLS0059",
+      "date": "2015-10-05",
+      "type": "EP",
+      "url": "//soundcloud.com/venntaur/sets/now-ep",
+      "tracks": [
+        {"title": "0900"},
+        {"title": "1000"},
+        {"title": "1100"}
+      ]
+    },
+    {
+      "title": "Just Once",
+      "label": "DeepWit Recordings",
+      "cat": "DWR048",
+      "date": "2015-09-14",
+      "type": "EP",
+      "url": "//soundcloud.com/deepwit-recordings/sets/venntaur-just-once",
+      "tracks": [
+        {"title": "You Got Feeling (Original Mix)"},
+        {"title": "You Got Feeling (Datakestra Remix)"},
+        {"title": "Just Once (Original Mix)"},
+        {"title": "Just Once (Jason Mitchell Remix)"}
+      ]
+    },
+    {
+      "title": "Jero Nougues - No Going Back (Venntaur Remix)",
+      "type": "remix",
+      "on": "No Going Back",
+      "url": "//soundcloud.com/venntaur/jero-nougues-no-going-back-venntaur-remix",
+      "label": "DeepWit Recordings",
+      "cat": "DWR043",
+      "date": "2015-07-05"
+    },
+    {
+      "title": "Hillside",
+      "label": "DeepWit Recordings",
+      "cat": "DWR039",
+      "date": "2015-03-02",
+      "type": "EP",
+      "url": "//soundcloud.com/deepwit-recordings/sets/venntaur-hillside-1",
+      "tracks": [
+        {"title": "Climbing The Hill That Is You"},
+        {"title": "Consequence"},
+        {"title": "Never Knew"}
+      ]
+    },
+    {
+      "title": "Tampere X–XIII",
+      "label": "Self-released/Venntaur Music",
+      "cat": "VENNM103",
+      "date": "2014-04-13",
+      "type": "EP",
+      "url": "//venntaur.bandcamp.com/album/tampere-x-xiii",
+      "tracks": [
+        {"title": "X: Jussinkylä"},
+        {"title": "Interlude: Konsulinsaari"},
+        {"title": "XI: Kyttälä A"},
+        {"title": "XII: Kyttälä B"},
+        {"title": "XIII: Ratina"}
+      ]
+    },
+    {
+      "title": "Tampere VI–IX",
+      "label": "Self-released/Venntaur Music",
+      "cat": "VENNM102",
+      "date": "2014-02-08",
+      "type": "EP",
+      "url": "//venntaur.bandcamp.com/album/tampere-vi-ix",
+      "tracks": [
+        {"title": "VI: Kaakinmaa"},
+        {"title": "VII: Pyynikinrinne"},
+        {"title": "VIII: Särkänniemi"},
+        {"title": "IX: Tampella"},
+        {"title": "Interlude: Armonkallio"}
+      ]
+    },
+    {
+      "title": "Tampere I–V",
+      "label": "Self-released/Venntaur Music",
+      "cat": "VENNM101",
+      "date": "2013-12-29",
+      "type": "EP",
+      "url": "//venntaur.bandcamp.com/album/tampere-i-v",
+      "tracks": [
+        {"title": "I: Finlayson"},
+        {"title": "II: Tammerkoski"},
+        {"title": "III: Nalkala"},
+        {"title": "IV: Amuri A"},
+        {"title": "V: Amuri B"}
+      ]
+    },
+    {
+      "title": "Tampere XIV–XVIII",
+      "label": "Self-released/Venntaur Music",
+      "cat": "VENNM104",
+      "date": "2014-07-27",
+      "type": "EP",
+      "url": "//venntaur.bandcamp.com/album/tampere-xiv-xviii",
+      "tracks": [
+        {"title": "XIV: Osmonmäki"},
+        {"title": "XV: Tammela A"},
+        {"title": "XVI: Tammela B"},
+        {"title": "XVII: Tulli"},
+        {"title": "Interlude: Sorsapuisto"},
+        {"title": "XVIII: Kalevanharju"}
+      ]
+    },
+    {
+      "title": "Minor 9",
+      "label": "Carton-Pâte",
+      "cat": "CPR011",
+      "date": "2014-07-07",
+      "type": "EP",
+      "url": "//soundcloud.com/cartonpaterecords/sets/cpr011",
+      "tracks": [
+        {"title": "Elation Level Event"},
+        {"title": "Keep The Change"},
+        {"title": "Four Hyaah"}
+      ]
+    },
+    {
+      "title": "Power-Up",
+      "label": "Carton-Pâte",
+      "cat": "CPR0001",
+      "date": "2013-09-09",
+      "type": "EP",
+      "url": "//soundcloud.com/cartonpaterecords/sets/cpr001",
+      "tracks": [
+        {"title": "Power-Up"},
+        {"title": "Bear Arms"},
+        {"title": "Punch It Huey"}
+      ]
+    },
+    {
+      "title": "Bloom",
+      "label": "Footmusic",
+      "cat": "BLV836752",
+      "date": "2014-01-18",
+      "type": "EP",
+      "url": "//soundcloud.com/venntaur/sets/bloom",
+      "tracks": [
+        {"title": "Melina"},
+        {"title": "Zaturn"},
+        {"title": "Sinclair"}
+      ]
+    },
+    {
+      "title": "Stella",
+      "type": "appearance",
+      "on": "Deep House United Vol. 2",
+      "url": "//soundcloud.com/deepwit-recordings/venntaur-stella-original-mix",
+      "label": "DeepWit Recordings",
+      "cat": "DWR004",
+      "date": "2014-12-29"
+    },
+    {
+      "title": "Hop On",
+      "type": "appearance",
+      "on": "The Christmas Gift LP",
+      "url": "//soundcloud.com/cartonpaterecords/venntaur-hop-on",
+      "label": "Carton-Pâte",
+      "cat": "CPR111",
+      "date": "2013-12-23"
+    },
+    {
+      "title": "Pause - Miles To Go (Venntaur Remix)",
+      "type": "remix",
+      "on": "Miles To Go Unreleased Remixes",
+      "url": "//soundcloud.com/cartonpaterecords/pause-miles-to-go-venntaur",
+      "label": "Carton-Pâte",
+      "cat": "CPR009",
+      "date": "2014-04-21"
+    },
+    {
+      "title": "Andres Munoz - Become (Venntaur Remix)",
+      "type": "remix",
+      "on": "Andres Munoz - Become (The Remixes)",
+      "url": "//soundcloud.com/venntaur/andres-munoz-become-venntaur",
+      "label": "CUE Digital",
+      "cat": "CDIGI045",
+      "date": "2013-08-27"
+    },
+    {
+      "title": "JM - THLSW (Venntaur Remix)",
+      "type": "remix",
+      "on": "JM - THLSW",
+      "url": "//soundcloud.com/cartonpaterecords/jm-thlsw-venntaur-remix",
+      "label": "Carton-Pâte",
+      "cat": "CPR000",
+      "date": "2013-06-25"
+    }
+
+  ]
+}
